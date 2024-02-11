@@ -1,0 +1,16 @@
+Rua do Relogio, Vermoim;1.2;200;12.5;6
+Rua da Ventuzela, Mogege;25;200;12.5;40
+Rua de Santo Amaro, Joane;3.5;300;17.5;6
+Rua da Paroquia, Pedome;25;200;12.5;60
+Rua do Monteiro, Casteloes;1.2;200;12.5;60
+Rua do Lobo, Seide;25;700;32.5;40
+Rua do Cabo, Mogege;1.2;200;12.5;4
+Rua do Monteiro, Casteloes;1.5;200;12.5;60
+Rua do Monteiro, Casteloes;1.9;200;12.5;60
+Rua do Carril, Mogege;1.4;150;10;14
+Rua do Carril, Mogege;6.3;450;10;14
+Rua Sao Pedro, Joane;1.2;200;12.5;6
+Rua do Hospital, Joane;25;200;12.5;40
+Rua de Moises, Pedome;3.5;300;17.5;6
+Rua 25 de Abril, Mogege;25;200;12.5;60
+Rua do Lamego, Joane;1.2;200;12.5;60

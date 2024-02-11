@@ -1,0 +1,4 @@
+1;carro;0;0
+2;mota;0;0
+3;mota;0;0
+4;bicicleta;0;0
