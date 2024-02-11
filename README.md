@@ -1,0 +1,1 @@
+Dado um dataset (de estafetas e de encomendas) é primeiramente calculada a ditribuição das encomendas pelos estafetas, seguidamente é possível utilizar vários algoritmos que calculam o custo e o caminho associado da entrega das encomendas, O algoritmo A* encontra o caminho ideal.
